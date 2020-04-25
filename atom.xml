@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Film Dropping</title>
   
-  
+  <subtitle>Dreary murmurings on the art of moving image</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://0xlink.github.io/"/>
